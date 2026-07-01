@@ -1,0 +1,1891 @@
+canonical_identifier: bkk:krp/KR6l0031/v1
+canonical_location: https://kanripo.org/bkk/KR6l0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿毘達磨順正理論
+  identifiers:
+    alt_id:
+    - T29n1562
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T29/T29n1562.xml
+    old_id: T29n1562
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 聖
+  label: 聖
+  source_xml_id: wit6
+- short: 德
+  label: 德
+  source_xml_id: wit8
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0031_000.yaml, hash: 'sha256:76da741bcc1ac04ef00ee678ba01bb5a4da89f3ab68e5d638f56434d07c1b626'}
+  - {seq: 1, filename: KR6l0031_001.yaml, hash: 'sha256:2f86a755f7c4421512bb45eb141fad95c20c2ee41e16ca22a8ac04fce3c49bb1'}
+  - {seq: 2, filename: KR6l0031_002.yaml, hash: 'sha256:7327054cdb4748c5d5f55cd2cd6d3012f54aa82e987ae98331817cfc7750778f'}
+  - {seq: 3, filename: KR6l0031_003.yaml, hash: 'sha256:3c55f52697ad2ef7c27065a254fa47189d3b2845440ab53174041bcf027652a5'}
+  - {seq: 4, filename: KR6l0031_004.yaml, hash: 'sha256:52b2f06f2e96223976481cd615b8c652705ffd36e2ff1e041454cd5a8717a6ec'}
+  - {seq: 5, filename: KR6l0031_005.yaml, hash: 'sha256:7924a9ef6bd4d9350d92b3c1d0d100cc7e035d113eb0c01342346f5435fae956'}
+  - {seq: 6, filename: KR6l0031_006.yaml, hash: 'sha256:817921c754e8f1133302d4ee219f5541bc12b3496517dc02bee0ec520cf315db'}
+  - {seq: 7, filename: KR6l0031_007.yaml, hash: 'sha256:6d7e8cb9eb4e26546054de4e24ec100f6a95e0f913391993d31e39d834258498'}
+  - {seq: 8, filename: KR6l0031_008.yaml, hash: 'sha256:4525d40dac3fd049d1b2779161212f576dc979a6a0766236db1ac474cd15a3bd'}
+  - {seq: 9, filename: KR6l0031_009.yaml, hash: 'sha256:f7ee2f9547b750325a024d582eb5bb3396167036abd4aa6ad13e232fe156d987'}
+  - {seq: 10, filename: KR6l0031_010.yaml, hash: 'sha256:61dcc2b1030ab8fb09499c1ddc4ffc1a315c5a08ecacaf4f8bc7a313fd2066e6'}
+  - {seq: 11, filename: KR6l0031_011.yaml, hash: 'sha256:b076d75d63a5f6901d800d51bc933398df8bcdfb02a520531e634d4da7e5f2d2'}
+  - {seq: 12, filename: KR6l0031_012.yaml, hash: 'sha256:bb3cefce7d103c76d692bc102723f67c0b67d11d73c5e39e699247602bf1aa4c'}
+  - {seq: 13, filename: KR6l0031_013.yaml, hash: 'sha256:5af9f2d92af8408d473b25f75e151587ddffc7d1574b0eba8b8140fc6a675eca'}
+  - {seq: 14, filename: KR6l0031_014.yaml, hash: 'sha256:00ac74f65679e358ac7ef00254b2c59bca498a11365eac3a64cb17fd48158e11'}
+  - {seq: 15, filename: KR6l0031_015.yaml, hash: 'sha256:34bd39a3638a37ad2b0cb93f2f112ab6b27221419c4b5a75b8d3cc10a28c7cb9'}
+  - {seq: 16, filename: KR6l0031_016.yaml, hash: 'sha256:4cfb6aec301b8c6e462a3cf0325643b379fa7b66c765d5ce478008e92edc29e6'}
+  - {seq: 17, filename: KR6l0031_017.yaml, hash: 'sha256:d394f7cab72c87eb03c919db88cbbebf17f6cfe3d26816a1cd9db6bb822efe26'}
+  - {seq: 18, filename: KR6l0031_018.yaml, hash: 'sha256:0ff32d1b94944438c67c9bd6ebaf32637a07c548d30040d9edcef845aff5229e'}
+  - {seq: 19, filename: KR6l0031_019.yaml, hash: 'sha256:1dee5edde836bf66b7d6919f042f7cd113f59fe70736a20b46e7278098ce9f51'}
+  - {seq: 20, filename: KR6l0031_020.yaml, hash: 'sha256:de26369e08d66e04b93d0e76cffb10adb6dc5e3f8a252debd9c68ae376fc11e6'}
+  - {seq: 21, filename: KR6l0031_021.yaml, hash: 'sha256:74db36c73a9505c257e8c9c94fcf1c1d63b7b8355a5874f0110dcad03d4493a0'}
+  - {seq: 22, filename: KR6l0031_022.yaml, hash: 'sha256:01e22af0addcb6d4235e88fc2ac9ceca26b89a128fb6d1aa32ecb185762d5fb1'}
+  - {seq: 23, filename: KR6l0031_023.yaml, hash: 'sha256:a9951a1d30e57966ae4241d99cc7b7e96be42ae79a9bc880dada5b299f6ea9f9'}
+  - {seq: 24, filename: KR6l0031_024.yaml, hash: 'sha256:e024fd054bed0aa8b690c34e2c57670e97e30e745eca99a9d5cbd3c2e908169d'}
+  - {seq: 25, filename: KR6l0031_025.yaml, hash: 'sha256:7a416dffd60d5e6d3e0c9eee331e7cb8a284246d2ebbe11fa90af4d57ffdcef5'}
+  - {seq: 26, filename: KR6l0031_026.yaml, hash: 'sha256:0138549f8756d1464b5f9a9c7b5ba15671758ebb086c11203d894dd0d3dc7b2f'}
+  - {seq: 27, filename: KR6l0031_027.yaml, hash: 'sha256:6c0e9c5a329925faab7c9a25b77bce53afc7cb257ecc89aad60cc271858b4470'}
+  - {seq: 28, filename: KR6l0031_028.yaml, hash: 'sha256:e720f18f853a6683809b8d3b114923b4490a00559f53aab57c3294ab778eed05'}
+  - {seq: 29, filename: KR6l0031_029.yaml, hash: 'sha256:0c9dc267a4100726de297863281073e13798c44e2933f5371c45869d50ae90ef'}
+  - {seq: 30, filename: KR6l0031_030.yaml, hash: 'sha256:a6e32c23dea1344b2abdabac756c21f9352c2a100c2ac6f6d1763762c31b3e7a'}
+  - {seq: 31, filename: KR6l0031_031.yaml, hash: 'sha256:b9d3a49b599d917d256972f80be9002cbd6dffa5132c4ee59a05de58e9618744'}
+  - {seq: 32, filename: KR6l0031_032.yaml, hash: 'sha256:f93c92e7f179b9ff7c7643b135d6d0e782b3fb42250840022a51486a36efa45f'}
+  - {seq: 33, filename: KR6l0031_033.yaml, hash: 'sha256:8c60eccf48e7cdef13c8f71754fd04d539db1e9befd97f0d48878883754fd720'}
+  - {seq: 34, filename: KR6l0031_034.yaml, hash: 'sha256:323eda9ba2448648b364a229afb4421805dea89b3cebadb6ad1dd9ca01d328fa'}
+  - {seq: 35, filename: KR6l0031_035.yaml, hash: 'sha256:a07074454ae6e903266af85b5fa11ea751e95d6c30a7bd973fe20dab65712d2a'}
+  - {seq: 36, filename: KR6l0031_036.yaml, hash: 'sha256:d17c50f8154ce2fda6bf28226326ad07009ee348f39cd4642c44d41746603a1b'}
+  - {seq: 37, filename: KR6l0031_037.yaml, hash: 'sha256:323789bf8938c49ccfc6a33cea6c02e2252505fa7fbe010d0b328a1560d36d9a'}
+  - {seq: 38, filename: KR6l0031_038.yaml, hash: 'sha256:794902648a357c1997a556337e267c3338a91a2b1e06a74f725722af4cdd034b'}
+  - {seq: 39, filename: KR6l0031_039.yaml, hash: 'sha256:6db08353d1d0e9d8e85f956e50546aaebc2756aa2f33e88a75f9810e65371b1b'}
+  - {seq: 40, filename: KR6l0031_040.yaml, hash: 'sha256:45ad63f40603e29cfbaa6241537358a2893907c7877d09462fca337f1298f4b4'}
+  - {seq: 41, filename: KR6l0031_041.yaml, hash: 'sha256:a3a8ce79dee091ae448256e3dfc74d4503151207f77bf265fc3fb0d2847c1cdb'}
+  - {seq: 42, filename: KR6l0031_042.yaml, hash: 'sha256:03695c47eb07f22e1c5aa8bec9057eb6bf5a106771c3ab7b32b21d88c7a198a7'}
+  - {seq: 43, filename: KR6l0031_043.yaml, hash: 'sha256:81931ec62f7305b66220b37363b0142450118271b7f1d27ab9d33e766225e57d'}
+  - {seq: 44, filename: KR6l0031_044.yaml, hash: 'sha256:0370fa9a68f32b7c3e3e955b0edba7d0b79079be337525d29cf11587a1676e34'}
+  - {seq: 45, filename: KR6l0031_045.yaml, hash: 'sha256:d629b132714f37a6802fbd2d5a8aeaa5bb458ec089e452b3a856079438bb7ba0'}
+  - {seq: 46, filename: KR6l0031_046.yaml, hash: 'sha256:03144a7510e6dfc6417a628734d6f33ba0a70cdc5247f8ec82e2459707f190b4'}
+  - {seq: 47, filename: KR6l0031_047.yaml, hash: 'sha256:2bb15c0c555614143f9532794c38063b00a3b79509d6f1ed2b095b2da68b6367'}
+  - {seq: 48, filename: KR6l0031_048.yaml, hash: 'sha256:0a107c356470e07dada50e5a9e5747ab7a8151d1c0962d6099baefd39ba88c29'}
+  - {seq: 49, filename: KR6l0031_049.yaml, hash: 'sha256:7e4db004a8b7324a8b03201481bd8d2a02a56af1cb434a0fcdd60b81cd85a2b0'}
+  - {seq: 50, filename: KR6l0031_050.yaml, hash: 'sha256:8afd612716b31967659ee3d774b2ccdd317cf7c4bc50cd4c240d68307bb8bb59'}
+  - {seq: 51, filename: KR6l0031_051.yaml, hash: 'sha256:1777f607e371fb48aa7f8e0605faf1d450ef8ddaee571544027a035954fe116f'}
+  - {seq: 52, filename: KR6l0031_052.yaml, hash: 'sha256:44f0eb628513f0e60e27261d1d40130537a713f83ded829a5480847b4b021fa7'}
+  - {seq: 53, filename: KR6l0031_053.yaml, hash: 'sha256:0e17bd7026e7ea4a2434bdd0e8d48f736dc6c0e9987a1d2b445179ddc1b96a30'}
+  - {seq: 54, filename: KR6l0031_054.yaml, hash: 'sha256:d2316c1f86e702d12e154d4ca0f57afb629a32a013f64641b6f1f28c17409069'}
+  - {seq: 55, filename: KR6l0031_055.yaml, hash: 'sha256:721171d5077e4f632d491ccc07c032726338bf6314494e429405f8e2cc66b6b1'}
+  - {seq: 56, filename: KR6l0031_056.yaml, hash: 'sha256:d2d782ef53f199a1bd87a108088e9e71c4cdd9333f711f20b170a61801bc0114'}
+  - {seq: 57, filename: KR6l0031_057.yaml, hash: 'sha256:12279ee7487a978333e2f1b21074a650009c65ef2b20b869acfb779c32d643f6'}
+  - {seq: 58, filename: KR6l0031_058.yaml, hash: 'sha256:3111e9978acf161d54151b4b8dae556c3c46a6b4a8631ea3d3447ae9f06f63c8'}
+  - {seq: 59, filename: KR6l0031_059.yaml, hash: 'sha256:c8f833369df4e50e2f0f2a3659d73150f53f993e6a3080bc43de87f4e15b4155'}
+  - {seq: 60, filename: KR6l0031_060.yaml, hash: 'sha256:aecfbceeadb7968a9d1bc491c5898832c6e3f55702b68be5cfa738d33827a773'}
+  - {seq: 61, filename: KR6l0031_061.yaml, hash: 'sha256:a76ec3912967ebed6b16885f1866908e01ec65a3a8c9ed9dc822b6bd1913edd6'}
+  - {seq: 62, filename: KR6l0031_062.yaml, hash: 'sha256:a01511f4dc480d2d88f13aa3305bbfe4ef408ca369656d23ced313b582650b4c'}
+  - {seq: 63, filename: KR6l0031_063.yaml, hash: 'sha256:476563adf6aabadb4907cee895b0f0f855fca30b142c1aed15e140741007f82b'}
+  - {seq: 64, filename: KR6l0031_064.yaml, hash: 'sha256:aa390e9253a679dd100e760c0e2df50057ed14226ae6cf6e0382c9641d00088f'}
+  - {seq: 65, filename: KR6l0031_065.yaml, hash: 'sha256:6cf86747f87946849355fefa1869bcedb2ed86e56f0b1e59b4f914b8b8830ea7'}
+  - {seq: 66, filename: KR6l0031_066.yaml, hash: 'sha256:806c59a57d9aa01901b298754be526f1e6264314d7f15056143b015aa8151f1a'}
+  - {seq: 67, filename: KR6l0031_067.yaml, hash: 'sha256:cdd4a9a1370f4bbe45e350bc9f354054a0c9cb7e7cc62211c279232b8afa0d1d'}
+  - {seq: 68, filename: KR6l0031_068.yaml, hash: 'sha256:e085993f362fff87e194b16436893e3b56ce6dbaff8b922fb18d26109fb1308f'}
+  - {seq: 69, filename: KR6l0031_069.yaml, hash: 'sha256:53ecb9f84deced76c861cf80c50c3f8a67d562aa30175ae71d0334b2e587a2b5'}
+  - {seq: 70, filename: KR6l0031_070.yaml, hash: 'sha256:56b926392d1a9d67fc56afbf6e61625cbb657a3d5e16f2f4462a71960f6f2f23'}
+  - {seq: 71, filename: KR6l0031_071.yaml, hash: 'sha256:3f5fd4fb918a5e811ef06097eaf3bb931e3744c14a4411d339bd7c83e2a40bda'}
+  - {seq: 72, filename: KR6l0031_072.yaml, hash: 'sha256:3d269b51139012d10ad69e99544dadd1b796d7d2e9af6464f6cdf09a55fa4b03'}
+  - {seq: 73, filename: KR6l0031_073.yaml, hash: 'sha256:400c43d225570a534a01e8a60786bf8ea4ea0447a8aa7d72e4e76c91de51c6ae'}
+  - {seq: 74, filename: KR6l0031_074.yaml, hash: 'sha256:68ad8e08c741084d0887a8e70b8936f3bb1da5560fade5087845fa75df2e46fc'}
+  - {seq: 75, filename: KR6l0031_075.yaml, hash: 'sha256:6e4f7aaddb615f1969ced92fcf594380384971ed2088d0e0afd1ae7ccb85a590'}
+  - {seq: 76, filename: KR6l0031_076.yaml, hash: 'sha256:140e76d57ac26cf7ef6434a37edeafbfeaf06c6e81bd264f0fce86f06d82fbff'}
+  - {seq: 77, filename: KR6l0031_077.yaml, hash: 'sha256:0f634fe4e1f0f7dfdcfc04e43ef1d4d0d3a4a48db31e0b15041c853d28ea9bec'}
+  - {seq: 78, filename: KR6l0031_078.yaml, hash: 'sha256:2e1135549d29c553b93bce506cd7688061a1f97bba0008c106bbfb7f1a7b6210'}
+  - {seq: 79, filename: KR6l0031_079.yaml, hash: 'sha256:da328974ae9c725c58361c9c86a5b236db029cd74097fd4807852fb0c88030dc'}
+  - {seq: 80, filename: KR6l0031_080.yaml, hash: 'sha256:4a49d5c85ae613e7b07cb5331e6e6b53db8c271259404aeb4f98617fc146082c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6l0031_001.markers.yaml, hash: 'sha256:423dcc00fd45a3f6bd314a0dce9c89cd7893f025a41b947aede3eecc0f40bccf'}
+  - {seq: 2, role: markers, filename: assets/KR6l0031_002.markers.yaml, hash: 'sha256:071acf5bde4e8840071066691a4dfe875ae2f18049e3181306a75c87264f32ad'}
+  - {seq: 3, role: markers, filename: assets/KR6l0031_003.markers.yaml, hash: 'sha256:0bbc18fa21e1ff9848dba94066254c0470467b912464c4dd270a08343363b0e3'}
+  - {seq: 4, role: markers, filename: assets/KR6l0031_004.markers.yaml, hash: 'sha256:0778a36b4bfea92a8aa31c958e890b02799f853ce83034c7e8f42b94c42755e5'}
+  - {seq: 5, role: markers, filename: assets/KR6l0031_005.markers.yaml, hash: 'sha256:f78871008115ae56defa60d2b2edeacfeb1d1ac38af5beb77861b9838d8c7d94'}
+  - {seq: 6, role: markers, filename: assets/KR6l0031_006.markers.yaml, hash: 'sha256:4bce863c700cb481fa3f625ff70eca06acc8a0d8ff15ead67530e27f3c626d71'}
+  - {seq: 7, role: markers, filename: assets/KR6l0031_007.markers.yaml, hash: 'sha256:ad350ebb99d69116dab7d4bf7320eea0fb9c297ecbb2ca6cfb8ac77a5603d0a0'}
+  - {seq: 8, role: markers, filename: assets/KR6l0031_008.markers.yaml, hash: 'sha256:9b73aa5ac8831e06a781c44607713b8594ec3f2ec32fad553466b4fe98913e06'}
+  - {seq: 9, role: markers, filename: assets/KR6l0031_009.markers.yaml, hash: 'sha256:554e227623e8dc102071b50c81a55b1496d1df6bbd05963ef93a37e1b076a126'}
+  - {seq: 10, role: markers, filename: assets/KR6l0031_010.markers.yaml, hash: 'sha256:612021cbd7abb0eaaa1b5538070086902686ad7064ea970e2983811b3f2a0831'}
+  - {seq: 11, role: markers, filename: assets/KR6l0031_011.markers.yaml, hash: 'sha256:d86fe31244a55f68588b7bf2f2ec55ff2b4c151212b2fff3b8c9731bc2b58fbe'}
+  - {seq: 12, role: markers, filename: assets/KR6l0031_012.markers.yaml, hash: 'sha256:bdc54b7d4d805c3fb9b0949d71892801ca6f4b164970a79fff760a17f57bcb05'}
+  - {seq: 13, role: markers, filename: assets/KR6l0031_013.markers.yaml, hash: 'sha256:01ccb828bbcef9de1e09da92747ced68af1b17e0417b1aa54a09fb2fecb1b3a2'}
+  - {seq: 14, role: markers, filename: assets/KR6l0031_014.markers.yaml, hash: 'sha256:d2f94d9410658a0980478e41d3a5629e3303a7ff485dc65a815e5865b2b34098'}
+  - {seq: 15, role: markers, filename: assets/KR6l0031_015.markers.yaml, hash: 'sha256:662615fbeac92d10875ba5759a66ec36061aeae5b4bebb68cb2f17e4f1558eb9'}
+  - {seq: 16, role: markers, filename: assets/KR6l0031_016.markers.yaml, hash: 'sha256:20d3f0b38edd939fc4fc8829732a8b84193c7d06e1393b210c7ccc3e55073a66'}
+  - {seq: 17, role: markers, filename: assets/KR6l0031_017.markers.yaml, hash: 'sha256:dafe95ad57f7a51bc5104df99ddf3d0ebb57ea4a389c439d532fe0cf03f37071'}
+  - {seq: 18, role: markers, filename: assets/KR6l0031_018.markers.yaml, hash: 'sha256:89c532db45e318eddebfe1e6f77e48abcf5ae44c0d1f6e9657bc12393e2cda90'}
+  - {seq: 19, role: markers, filename: assets/KR6l0031_019.markers.yaml, hash: 'sha256:aecf58fd1d70c72a594b726733300c18c79bb4512ebc6e9d2c0e72daa4889caa'}
+  - {seq: 20, role: markers, filename: assets/KR6l0031_020.markers.yaml, hash: 'sha256:a55af1472c9ad3e40955c50fa7717fe912cd8a99bc2bd7b1e090a8bd58e2e319'}
+  - {seq: 21, role: markers, filename: assets/KR6l0031_021.markers.yaml, hash: 'sha256:ddb2ddb17ee258522d274357bc30e82f7b1d1d922300625af6aae04aeb973a7e'}
+  - {seq: 22, role: markers, filename: assets/KR6l0031_022.markers.yaml, hash: 'sha256:db97ca0dcdbecc9178e252887084e4262b18f9ca02cb44fb6fb43fea6879ce53'}
+  - {seq: 23, role: markers, filename: assets/KR6l0031_023.markers.yaml, hash: 'sha256:a4e414121355b1bb5cc35b89b7c5184ca6b812d58d28c8fcbcd0b82503929c9a'}
+  - {seq: 24, role: markers, filename: assets/KR6l0031_024.markers.yaml, hash: 'sha256:6867d7932d4115a78d30c072c3e91884392fb319a7202d5396e52b05ceb81339'}
+  - {seq: 25, role: markers, filename: assets/KR6l0031_025.markers.yaml, hash: 'sha256:5e0b73a8a1cfb46acfb74215247276ec7fc18a41e41f168a12ff0b9c25ff09c1'}
+  - {seq: 26, role: markers, filename: assets/KR6l0031_026.markers.yaml, hash: 'sha256:eff76c530ad264b3ed5d0879f99ba02d816851f3488c7c6c081cc4a6981a2154'}
+  - {seq: 27, role: markers, filename: assets/KR6l0031_027.markers.yaml, hash: 'sha256:92b2b58f93eacdfe868ed5e87709967ffc4fe8011145b92cc9d13d1d008cebd6'}
+  - {seq: 28, role: markers, filename: assets/KR6l0031_028.markers.yaml, hash: 'sha256:54bdf2f7d093a4f05d097250d863af7ca5af4606de83d24b8b4d27e2ceeaffc5'}
+  - {seq: 29, role: markers, filename: assets/KR6l0031_029.markers.yaml, hash: 'sha256:bf9844590f96d2b3080a9cafda7cc7b8c3d755b991e9748cd6f7ff42b8bf8026'}
+  - {seq: 30, role: markers, filename: assets/KR6l0031_030.markers.yaml, hash: 'sha256:ed86e6c54610189fcdbb769ee3d8ab2b452c29b918803abf16a75730a25a99f0'}
+  - {seq: 31, role: markers, filename: assets/KR6l0031_031.markers.yaml, hash: 'sha256:f506f358cb2002293dfbd04425d7c6a46f59e63b5348d3d211eafeee92887230'}
+  - {seq: 32, role: markers, filename: assets/KR6l0031_032.markers.yaml, hash: 'sha256:ba7da86783977b59f5de6eaa024e2e5f612bd28dded9d55c0f63cf2155a74eee'}
+  - {seq: 33, role: markers, filename: assets/KR6l0031_033.markers.yaml, hash: 'sha256:aa850bd22e0a7ea33c8356e803598b2900bc313ee5b69eb11d1489ce55f8eaa2'}
+  - {seq: 34, role: markers, filename: assets/KR6l0031_034.markers.yaml, hash: 'sha256:3af150da6bde6dc5f82153a1e9212b4e4eb866541405b18159a6c852e1800c0d'}
+  - {seq: 35, role: markers, filename: assets/KR6l0031_035.markers.yaml, hash: 'sha256:6afba468ac7108f56579170b6a2b929f874d4659f6fe7ec4de3c3de68bc9aa11'}
+  - {seq: 36, role: markers, filename: assets/KR6l0031_036.markers.yaml, hash: 'sha256:64e5e1684c1006e542005d9ce578d8533375681607600a9f3a9528a89510644e'}
+  - {seq: 37, role: markers, filename: assets/KR6l0031_037.markers.yaml, hash: 'sha256:4e5d245282a407ab4b0cf9953bb3b5af9876a33068cf30082ffe7995193fb602'}
+  - {seq: 38, role: markers, filename: assets/KR6l0031_038.markers.yaml, hash: 'sha256:c575492cd0abd03a413a93446ae8ede763abe86654f4ba845d29f476ca7eb149'}
+  - {seq: 39, role: markers, filename: assets/KR6l0031_039.markers.yaml, hash: 'sha256:4790fc1495d97ae14665d243e976c6a6793c62fb60063ebe44bcaf3f27eb6d28'}
+  - {seq: 40, role: markers, filename: assets/KR6l0031_040.markers.yaml, hash: 'sha256:1b37b6464d707a4188942c49ded537be24f8d9735ec5ac9677a2ebb2934ba6d5'}
+  - {seq: 41, role: markers, filename: assets/KR6l0031_041.markers.yaml, hash: 'sha256:0fa1f5a3bbb41b9b81058f8cd611d9e70791c553764fe5b3cb0a2072053ba2cc'}
+  - {seq: 42, role: markers, filename: assets/KR6l0031_042.markers.yaml, hash: 'sha256:d9ecbe960275f5839e25c17cbfd89f0b9a19c7fe501ee2b0e365c4338aaa0fc1'}
+  - {seq: 43, role: markers, filename: assets/KR6l0031_043.markers.yaml, hash: 'sha256:6679a1520dbdbfbf57da6ce4aa79dcd0c69ec8e7581a5b552384c864bb4d37e9'}
+  - {seq: 44, role: markers, filename: assets/KR6l0031_044.markers.yaml, hash: 'sha256:cb59b62f11ca1c1cac81c9fd8489f2acce8604287d5f7c2c61c258183f606b9b'}
+  - {seq: 45, role: markers, filename: assets/KR6l0031_045.markers.yaml, hash: 'sha256:ded2ff97d04841916832f44773b3ff09247efd6401fa5a65c8bf6ba9af276f71'}
+  - {seq: 46, role: markers, filename: assets/KR6l0031_046.markers.yaml, hash: 'sha256:56b3913c6ade408a62e5359494cee9c463e731ae7dd33069a297685697c60c7a'}
+  - {seq: 47, role: markers, filename: assets/KR6l0031_047.markers.yaml, hash: 'sha256:5d1155bc076c1a332112642e1527d9e2555d7e99de05fa2bb62fee329c4ca694'}
+  - {seq: 48, role: markers, filename: assets/KR6l0031_048.markers.yaml, hash: 'sha256:b961c5255cd7e9dc559beefb4344bd5eabce9b2388fe2844a15e24e435246efd'}
+  - {seq: 49, role: markers, filename: assets/KR6l0031_049.markers.yaml, hash: 'sha256:906e55fd730d769ad36ee3f949be2b19f81c14776064c9236b491914e7e9a1e9'}
+  - {seq: 50, role: markers, filename: assets/KR6l0031_050.markers.yaml, hash: 'sha256:1edd7bd9abb8ed95b0707a20f1907173352af7d262b65966efb9370a47b59e33'}
+  - {seq: 51, role: markers, filename: assets/KR6l0031_051.markers.yaml, hash: 'sha256:38ab29148995b511c763ba27195bb5f6ddc1a3a905bc1b0cb35a86eb9b5931e4'}
+  - {seq: 52, role: markers, filename: assets/KR6l0031_052.markers.yaml, hash: 'sha256:b22310bb50a3d1281c42213cc1e872a06b2140d6bab741319b2f91d007b4f45a'}
+  - {seq: 53, role: markers, filename: assets/KR6l0031_053.markers.yaml, hash: 'sha256:978cf93a6784ed87d9402ef0c2457115962d9a3e43c8494814892f69cfb38cc3'}
+  - {seq: 54, role: markers, filename: assets/KR6l0031_054.markers.yaml, hash: 'sha256:7a7efd1b8653bdaaa1eac1c2f8357d03151e060a6df95f55808d8fe7d8891541'}
+  - {seq: 55, role: markers, filename: assets/KR6l0031_055.markers.yaml, hash: 'sha256:678925cf3fb720fa7b43f033100436efd5a25fdf793be032913c0c564c231dab'}
+  - {seq: 56, role: markers, filename: assets/KR6l0031_056.markers.yaml, hash: 'sha256:225b2fb97b6f150f2673ebafe9a08be019947947c258bf533835a2c9e37b0486'}
+  - {seq: 57, role: markers, filename: assets/KR6l0031_057.markers.yaml, hash: 'sha256:82c23dbc97c7d21dedb092e95f1e61b9839299dc896f6e961500a50f386c3c0e'}
+  - {seq: 58, role: markers, filename: assets/KR6l0031_058.markers.yaml, hash: 'sha256:e407f9e4d6e031ab3843938e95d399d1a8a6ca36c4e19b2b1ee219ab09a506e5'}
+  - {seq: 59, role: markers, filename: assets/KR6l0031_059.markers.yaml, hash: 'sha256:796fb5a9680a8b61b313c624ed486c406983384a4d611f433a8e3dbe11a1fea6'}
+  - {seq: 60, role: markers, filename: assets/KR6l0031_060.markers.yaml, hash: 'sha256:2a476c90f8577494b9dcb85bc0c494be070e7c6d38006f09409e256cb6e9c020'}
+  - {seq: 61, role: markers, filename: assets/KR6l0031_061.markers.yaml, hash: 'sha256:ef55f0c9747403dd2fbe4ed30b8ceb97429af7cfc9638302049ad6b7dbce210e'}
+  - {seq: 62, role: markers, filename: assets/KR6l0031_062.markers.yaml, hash: 'sha256:76bb0384e3bdb3ae00a92ff73c5abd1ec19ca347807cd827dc612d6e1f7a7602'}
+  - {seq: 63, role: markers, filename: assets/KR6l0031_063.markers.yaml, hash: 'sha256:954054dca79b96a53b11f3ef6ac73e14828793500b00fa37e56b598c089978f8'}
+  - {seq: 64, role: markers, filename: assets/KR6l0031_064.markers.yaml, hash: 'sha256:abf72859aaa46d534ad4b6f05b6c137df8fb16f1bb105b1daabc8aaeac833d85'}
+  - {seq: 65, role: markers, filename: assets/KR6l0031_065.markers.yaml, hash: 'sha256:834489191682c95dd5b03442b9984d58f18d6c0b6af7dc0571ebc0e0365917c0'}
+  - {seq: 66, role: markers, filename: assets/KR6l0031_066.markers.yaml, hash: 'sha256:1c5dc965807b75bff64eb14912c39475b6b9f3bde46a59e3c93ae5e23a5d9747'}
+  - {seq: 67, role: markers, filename: assets/KR6l0031_067.markers.yaml, hash: 'sha256:2374e3e5a460752154a59335c893d15ed9404b1d3730ef3f575ddc9cb0094f51'}
+  - {seq: 68, role: markers, filename: assets/KR6l0031_068.markers.yaml, hash: 'sha256:1d339c1d56a423cbf8e7339516a81dae8c0d91c5d77aa96cca99ac6084a58b53'}
+  - {seq: 69, role: markers, filename: assets/KR6l0031_069.markers.yaml, hash: 'sha256:8158a44ebb9ac2b6dab177b952f15a706d4660f07f011642192dcb84bca0fd3b'}
+  - {seq: 70, role: markers, filename: assets/KR6l0031_070.markers.yaml, hash: 'sha256:9e39d0f3a8ec4fa54439a4dd0a5bc5e51f01756f139cc9052585265bd3af799c'}
+  - {seq: 71, role: markers, filename: assets/KR6l0031_071.markers.yaml, hash: 'sha256:964e08c7db6a23b31b9bc5280866e2c64bd47952c6a95616988a39a7edadb349'}
+  - {seq: 72, role: markers, filename: assets/KR6l0031_072.markers.yaml, hash: 'sha256:d14b2ec711d744e9234ef33e0a4d9949f6083b1f513bbca1d59326a6775c620a'}
+  - {seq: 73, role: markers, filename: assets/KR6l0031_073.markers.yaml, hash: 'sha256:d174c8ef3406facdc181705dcae576960d8a56d83d568e31c290786e3d4481ee'}
+  - {seq: 74, role: markers, filename: assets/KR6l0031_074.markers.yaml, hash: 'sha256:6d793bc56540ab2efc88155545a11213b7282c2b440ff39daf9773c9bce68f79'}
+  - {seq: 75, role: markers, filename: assets/KR6l0031_075.markers.yaml, hash: 'sha256:2991bf6b59b5d34bb9f6b2239e4982b5f97107309bae0cdcbb74be862dde24e6'}
+  - {seq: 76, role: markers, filename: assets/KR6l0031_076.markers.yaml, hash: 'sha256:78b714bcf546a25c4d9ec4c982f9afcc6186d9eb153404801d94ded310479006'}
+  - {seq: 77, role: markers, filename: assets/KR6l0031_077.markers.yaml, hash: 'sha256:45b0ded9ceac00e9125559554cb7e6473bf6f8005349601b9a328d922ffb0c04'}
+  - {seq: 78, role: markers, filename: assets/KR6l0031_078.markers.yaml, hash: 'sha256:0eae343806765ece1dbe5065cfa5016bcb595e817d0f72752bb25c70947c2fbe'}
+  - {seq: 79, role: markers, filename: assets/KR6l0031_079.markers.yaml, hash: 'sha256:e7aff68b8a9865d4d08eb32e330bd4504ce2dcdafe7e61263570b9141eb69067'}
+  - {seq: 80, role: markers, filename: assets/KR6l0031_080.markers.yaml, hash: 'sha256:ac49d4f419e9dda4b543d9a4a6a0cd5606608c36fe9052f0f9ea0337e98ea320'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6l0031_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8735
+  label: 阿毘達磨順正理論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0031_T_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 辯本事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0031_T_001-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0031_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9709
+  label: 阿毘達磨順正理論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0031_T_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0031_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8298
+  label: 阿毘達磨順正理論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0031_T_003-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0031_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9211
+  label: 阿毘達磨順正理論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0031_T_004-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0031_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8546
+  label: 阿毘達磨順正理論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0031_T_005-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0031_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7983
+  label: 阿毘達磨順正理論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0031_T_006-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0031_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7974
+  label: 阿毘達磨順正理論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0031_T_007-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0031_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 8071
+  label: 阿毘達磨順正理論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0031_T_008-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 8 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0031_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8573
+  label: 阿毘達磨順正理論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0031_T_009-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 辯差別品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0031_T_009-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0031_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8924
+  label: 阿毘達磨順正理論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0031_T_010-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0031_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 9634
+  label: 阿毘達磨順正理論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0031_T_011-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0031_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 8897
+  label: 阿毘達磨順正理論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0031_T_012-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0031_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 9750
+  label: 阿毘達磨順正理論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0031_T_013-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0031_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 9328
+  label: 阿毘達磨順正理論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0031_T_014-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0031_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 8025
+  label: 阿毘達磨順正理論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0031_T_015-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0031_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 9544
+  label: 阿毘達磨順正理論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0031_T_016-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 8 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0031_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 10154
+  label: 阿毘達磨順正理論卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0031_T_017-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 9 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0031_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 9814
+  label: 阿毘達磨順正理論卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0031_T_018-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 10 十
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0031_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 10123
+  label: 阿毘達磨順正理論卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0031_T_019-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 11 十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0031_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 9308
+  label: 阿毘達磨順正理論卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0031_T_020-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 12 十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0031_T_021-juan-start
+    span:
+    - body
+    - 0
+    - 8061
+  label: 阿毘達磨順正理論卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0031_T_021-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 辯緣起品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0031_T_021-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6l0031_T_022-juan-start
+    span:
+    - body
+    - 0
+    - 9176
+  label: 阿毘達磨順正理論卷第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6l0031_T_022-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6l0031_T_023-juan-start
+    span:
+    - body
+    - 0
+    - 8470
+  label: 阿毘達磨順正理論卷第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6l0031_T_023-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6l0031_T_024-juan-start
+    span:
+    - body
+    - 0
+    - 9249
+  label: 阿毘達磨順正理論卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6l0031_T_024-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6l0031_T_025-juan-start
+    span:
+    - body
+    - 0
+    - 7326
+  label: 阿毘達磨順正理論卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6l0031_T_025-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6l0031_T_026-juan-start
+    span:
+    - body
+    - 0
+    - 7943
+  label: 阿毘達磨順正理論卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6l0031_T_026-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6l0031_T_027-juan-start
+    span:
+    - body
+    - 0
+    - 7648
+  label: 阿毘達磨順正理論卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6l0031_T_027-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6l0031_T_028-juan-start
+    span:
+    - body
+    - 0
+    - 8578
+  label: 阿毘達磨順正理論卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6l0031_T_028-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 8 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0031_T_029-juan-start
+    span:
+    - body
+    - 0
+    - 9313
+  label: 阿毘達磨順正理論卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0031_T_029-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 9 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0031_T_030-juan-start
+    span:
+    - body
+    - 0
+    - 7789
+  label: 阿毘達磨順正理論卷第三十
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0031_T_030-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 10 十
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6l0031_T_031-juan-start
+    span:
+    - body
+    - 0
+    - 8716
+  label: 阿毘達磨順正理論卷第三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6l0031_T_031-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 11 十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6l0031_T_032-juan-start
+    span:
+    - body
+    - 0
+    - 8496
+  label: 阿毘達磨順正理論卷第三十二
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6l0031_T_032-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 12 十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6l0031_T_033-juan-start
+    span:
+    - body
+    - 0
+    - 7841
+  label: 阿毘達磨順正理論卷第三十三
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6l0031_T_033-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 辯業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6l0031_T_033-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6l0031_T_034-juan-start
+    span:
+    - body
+    - 0
+    - 7417
+  label: 阿毘達磨順正理論卷第三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6l0031_T_034-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6l0031_T_035-juan-start
+    span:
+    - body
+    - 0
+    - 8168
+  label: 阿毘達磨順正理論卷第三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6l0031_T_035-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6l0031_T_036-juan-start
+    span:
+    - body
+    - 0
+    - 7603
+  label: 阿毘達磨順正理論卷第三十六
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6l0031_T_036-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6l0031_T_037-juan-start
+    span:
+    - body
+    - 0
+    - 6828
+  label: 阿毘達磨順正理論卷第三十七
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6l0031_T_037-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6l0031_T_038-juan-start
+    span:
+    - body
+    - 0
+    - 8116
+  label: 阿毘達磨順正理論卷第三十八
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6l0031_T_038-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6l0031_T_039-juan-start
+    span:
+    - body
+    - 0
+    - 8842
+  label: 阿毘達磨順正理論卷第三十九
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6l0031_T_039-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6l0031_T_040-juan-start
+    span:
+    - body
+    - 0
+    - 7236
+  label: 阿毘達磨順正理論卷第四十
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6l0031_T_040-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 8 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6l0031_T_041-juan-start
+    span:
+    - body
+    - 0
+    - 7236
+  label: 阿毘達磨順正理論卷第四十一
+  type: juan
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6l0031_T_041-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 9 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6l0031_T_042-juan-start
+    span:
+    - body
+    - 0
+    - 8152
+  label: 阿毘達磨順正理論卷第四十二
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6l0031_T_042-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 10 十
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6l0031_T_043-juan-start
+    span:
+    - body
+    - 0
+    - 8588
+  label: 阿毘達磨順正理論卷第四十三
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6l0031_T_043-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 11 十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6l0031_T_044-juan-start
+    span:
+    - body
+    - 0
+    - 7498
+  label: 阿毘達磨順正理論卷第四十四
+  type: juan
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6l0031_T_044-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 12 十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6l0031_T_045-juan-start
+    span:
+    - body
+    - 0
+    - 7151
+  label: 阿毘達磨順正理論卷第四十五
+  type: juan
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6l0031_T_045-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 辯隨眠品
+  type: mulu
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6l0031_T_045-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6l0031_T_046-juan-start
+    span:
+    - body
+    - 0
+    - 6706
+  label: 阿毘達磨順正理論卷第四十六
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6l0031_T_046-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6l0031_T_047-juan-start
+    span:
+    - body
+    - 0
+    - 7219
+  label: 阿毘達磨順正理論卷第四十七
+  type: juan
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6l0031_T_047-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6l0031_T_048-juan-start
+    span:
+    - body
+    - 0
+    - 7677
+  label: 阿毘達磨順正理論卷第四十八
+  type: juan
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6l0031_T_048-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6l0031_T_049-juan-start
+    span:
+    - body
+    - 0
+    - 6630
+  label: 阿毘達磨順正理論卷第四十九
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6l0031_T_049-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6l0031_T_050-juan-start
+    span:
+    - body
+    - 0
+    - 6606
+  label: 阿毘達磨順正理論卷第五十
+  type: juan
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6l0031_T_050-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6l0031_T_051-juan-start
+    span:
+    - body
+    - 0
+    - 8035
+  label: 阿毘達磨順正理論卷第五十一
+  type: juan
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6l0031_T_051-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6l0031_T_052-juan-start
+    span:
+    - body
+    - 0
+    - 7767
+  label: 阿毘達磨順正理論卷第五十二
+  type: juan
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6l0031_T_052-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 8 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6l0031_T_053-juan-start
+    span:
+    - body
+    - 0
+    - 8326
+  label: 阿毘達磨順正理論卷第五十三
+  type: juan
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6l0031_T_053-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 9 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6l0031_T_054-juan-start
+    span:
+    - body
+    - 0
+    - 6762
+  label: 阿毘達磨順正理論卷第五十四
+  type: juan
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6l0031_T_054-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 10 十
+  type: mulu
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR6l0031_T_055-juan-start
+    span:
+    - body
+    - 0
+    - 6664
+  label: 阿毘達磨順正理論卷第五十五
+  type: juan
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR6l0031_T_055-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 11 十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6l0031_T_056-juan-start
+    span:
+    - body
+    - 0
+    - 7927
+  label: 阿毘達磨順正理論卷第五十六
+  type: juan
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6l0031_T_056-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 12 十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6l0031_T_057-juan-start
+    span:
+    - body
+    - 0
+    - 7516
+  label: 阿毘達磨順正理論卷第五十七
+  type: juan
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6l0031_T_057-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 辯賢聖品
+  type: mulu
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6l0031_T_057-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR6l0031_T_058-juan-start
+    span:
+    - body
+    - 0
+    - 7603
+  label: 阿毘達磨順正理論卷第五十八
+  type: juan
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR6l0031_T_058-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR6l0031_T_059-juan-start
+    span:
+    - body
+    - 0
+    - 6518
+  label: 阿毘達磨順正理論卷第五十九
+  type: juan
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR6l0031_T_059-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR6l0031_T_060-juan-start
+    span:
+    - body
+    - 0
+    - 6859
+  label: 阿毘達磨順正理論卷第六十
+  type: juan
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR6l0031_T_060-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR6l0031_T_061-juan-start
+    span:
+    - body
+    - 0
+    - 7512
+  label: 阿毘達磨順正理論卷第六十一
+  type: juan
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR6l0031_T_061-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR6l0031_T_062-juan-start
+    span:
+    - body
+    - 0
+    - 6247
+  label: 阿毘達磨順正理論卷第六十二
+  type: juan
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR6l0031_T_062-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR6l0031_T_063-juan-start
+    span:
+    - body
+    - 0
+    - 6634
+  label: 阿毘達磨順正理論卷第六十三
+  type: juan
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR6l0031_T_063-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR6l0031_T_064-juan-start
+    span:
+    - body
+    - 0
+    - 6236
+  label: 阿毘達磨順正理論卷第六十四
+  type: juan
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR6l0031_T_064-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 8 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR6l0031_T_065-juan-start
+    span:
+    - body
+    - 0
+    - 6924
+  label: 阿毘達磨順正理論卷第六十五
+  type: juan
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR6l0031_T_065-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 9 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR6l0031_T_066-juan-start
+    span:
+    - body
+    - 0
+    - 6911
+  label: 阿毘達磨順正理論卷第六十六
+  type: juan
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR6l0031_T_066-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 10 十
+  type: mulu
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR6l0031_T_067-juan-start
+    span:
+    - body
+    - 0
+    - 6618
+  label: 阿毘達磨順正理論卷第六十七
+  type: juan
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR6l0031_T_067-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 11 十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR6l0031_T_068-juan-start
+    span:
+    - body
+    - 0
+    - 7483
+  label: 阿毘達磨順正理論卷第六十八
+  type: juan
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR6l0031_T_068-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 12 十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR6l0031_T_069-juan-start
+    span:
+    - body
+    - 0
+    - 6734
+  label: 阿毘達磨順正理論卷第六十九
+  type: juan
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR6l0031_T_069-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 13 十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR6l0031_T_070-juan-start
+    span:
+    - body
+    - 0
+    - 6695
+  label: 阿毘達磨順正理論卷第七十
+  type: juan
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR6l0031_T_070-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 14 十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR6l0031_T_071-juan-start
+    span:
+    - body
+    - 0
+    - 6656
+  label: 阿毘達磨順正理論卷第七十一
+  type: juan
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR6l0031_T_071-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 15 十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR6l0031_T_072-juan-start
+    span:
+    - body
+    - 0
+    - 6810
+  label: 阿毘達磨順正理論卷第七十二
+  type: juan
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR6l0031_T_072-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 16 十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR6l0031_T_073-juan-start
+    span:
+    - body
+    - 0
+    - 7782
+  label: 阿毘達磨順正理論卷第七十三
+  type: juan
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR6l0031_T_073-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 辯智品
+  type: mulu
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR6l0031_T_073-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR6l0031_T_074-juan-start
+    span:
+    - body
+    - 0
+    - 7326
+  label: 阿毘達磨順正理論卷第七十四
+  type: juan
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR6l0031_T_074-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR6l0031_T_075-juan-start
+    span:
+    - body
+    - 0
+    - 6784
+  label: 阿毘達磨順正理論卷第七十五
+  type: juan
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR6l0031_T_075-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR6l0031_T_076-juan-start
+    span:
+    - body
+    - 0
+    - 7484
+  label: 阿毘達磨順正理論卷第七十六
+  type: juan
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR6l0031_T_076-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR6l0031_T_077-juan-start
+    span:
+    - body
+    - 0
+    - 6815
+  label: 阿毘達磨順正理論卷第七十七
+  type: juan
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR6l0031_T_077-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 8 辯定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR6l0031_T_077-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR6l0031_T_078-juan-start
+    span:
+    - body
+    - 0
+    - 6798
+  label: 阿毘達磨順正理論卷第七十八
+  type: juan
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR6l0031_T_078-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 2 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR6l0031_T_079-juan-start
+    span:
+    - body
+    - 0
+    - 7443
+  label: 阿毘達磨順正理論卷第七十九
+  type: juan
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR6l0031_T_079-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR6l0031_T_080-juan-start
+    span:
+    - body
+    - 0
+    - 6161
+  label: 阿毘達磨順正理論卷第八十
+  type: juan
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR6l0031_T_080-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 四
+  type: mulu
+  level: 1
+hash: sha256:0fa8d5fdd6b2cf4d1374f7c3fa4c61a19ed7a35024b0cbf01bcb66852419f8cb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

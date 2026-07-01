@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0031/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿毘達磨順正理論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T29/T29n1562.xml
+    old_id: T29n1562
+hash: sha256:76da741bcc1ac04ef00ee678ba01bb5a4da89f3ab68e5d638f56434d07c1b626
